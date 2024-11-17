@@ -1,4 +1,4 @@
-Hello! First project in network GIT!
+Hello! First project in local GIT!
 pull
 push
 add
